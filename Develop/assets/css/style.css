@@ -29,7 +29,7 @@ body {
     margin-right: 20px;
     float: right;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    font-size: 16px;
+    font-size: 16px; /*change font size to 16px*/
 }
 
 .header div ul {
@@ -47,7 +47,7 @@ a {
 }
 
 p {
-    font-size: 16px;
+    font-size: 14px; /*change font size to 14px*/
 }
 
 .hero {
